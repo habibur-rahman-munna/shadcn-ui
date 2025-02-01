@@ -1,7 +1,7 @@
 
 const Sectionnine = () => {
   return (
-    <section className="py-20 bg-white dark:bg-black">
+    <section className="py-20 bg-white dark:bg-black font-myFont">
       <div className="container mx-auto text-center">
         <h2 className="text-5xl font-bold mb-6">Want to book a call?</h2>
         <div className="flex justify-center gap-4">

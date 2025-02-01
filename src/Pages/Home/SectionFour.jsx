@@ -11,7 +11,7 @@ const SectionFour = () => {
   ];
 
   return (
-    <div className="bg-white dark:bg-black">
+    <div className="bg-white dark:bg-black font-myFont">
       <div className="container mx-auto flex flex-col md:flex-row p-8 gap-8">
         <div className="w-full md:w-1/3">
           <div>

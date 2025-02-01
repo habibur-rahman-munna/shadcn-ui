@@ -1,6 +1,6 @@
 const HeroSection = () => {
     return (
-      <section className="bg-white dark:bg-black py-24 text-center">
+      <section className="bg-white dark:bg-black py-24 text-center font-myFont">
         <div className="container mx-auto flex flex-col justify-center items-center">
           <h1 className="bg-gray-100 text-sm font-medium w-52 rounded-full p-1 mb-6 dark:bg-gray-900 dark:text-white">Next 15 SaaS Starter Kits</h1>
           <h1 className="text-7xl font-bold mb-4 text-black dark:text-white">Building your SaaS</h1>

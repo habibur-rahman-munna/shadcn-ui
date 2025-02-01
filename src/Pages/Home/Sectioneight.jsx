@@ -10,7 +10,7 @@ const Sectioneight = () => {
   const [activeTab, setActiveTab] = useState("item-1");
 
   return (
-    <section className="py-20 bg-white dark:bg-black">
+    <section className="py-20 bg-white dark:bg-black font-myFont">
       <div className="container mx-auto">
         <h2 className="text-3xl font-bold mb-8 text-center">
           Frequently Asked Questions

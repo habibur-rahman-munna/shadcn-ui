@@ -2,7 +2,7 @@ import { Button } from "@/Components/ui/button";
 
 const Sectionseven = () => {
   return (
-    <section className="py-20 bg-white dark:bg-black">
+    <section className="py-20 bg-white dark:bg-black font-myFont">
       <div className="container mx-auto flex flex-col md:flex-row gap-12 justify-center items-center">
         <div className="w-full md:w-1/3">
           <h2 className="text-3xl font-bold mb-4">Pay once, own it forever</h2>

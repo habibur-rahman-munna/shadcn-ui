@@ -18,7 +18,7 @@ const SectionThree = () => {
   ];
 
   return (
-    <section className="bg-white dark:bg-black py-20">
+    <section className="bg-white dark:bg-black py-20 font-myFont">
       <div className="container mx-auto px-44">
         <div className="text-center">
           <h2 className="text-3xl font-bold text-black dark:text-white capitalize">Building a web app takes time</h2>

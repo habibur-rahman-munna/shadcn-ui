@@ -8,7 +8,7 @@ import img5 from "../../assets/Login.jpg";
 
 const SectionTwo = () => {
   return (
-    <div className="bg-white dark:bg-black flex items-center justify-center pt-0 pb-20">
+    <div className="bg-white dark:bg-black flex items-center justify-center pt-0 pb-20 font-myFont">
       <Tabs defaultValue="Masterpage" className="w-full max-w-7xl">
         <TabsList className="flex justify-center items-center gap-4 mb-6">
           <TabsTrigger value="Masterpage" className="px-4 py-2 text-sm font-medium text-gray-500 dark:text-gray-300 border-b-2 border-transparent hover:border-gray-400 dark:hover:border-white transition-all"

@@ -2,7 +2,7 @@ import { Button } from "@/Components/ui/button";
 import img from "../../assets/Annotation 2025-01-30 150654.png"
 const Sectionsix = () => {
   return (
-    <div className="bg-white dark:bg-black">
+    <div className="bg-white dark:bg-black font-myFont">
       <div className="container mx-auto py-20 flex flex-col md:flex-row gap-12 justify-center items-center">
         <div className="w-full md:w-1/2">
         <img className="border-2 border-gray-300 rounded" src={img} alt="image" />
